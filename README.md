@@ -1,4 +1,4 @@
-# BCSAI111: HTML and CSS Introduction Lab
+# BCS352: HTML and CSS Introduction Lab
 **Faculty of Engineering & Technology**  
 **B.Tech CSE - Section E**  
 **Course Code:** BCS352
