@@ -9,7 +9,7 @@
 
 ## 📌 Lab Overview & Structure
 
-This repository contains the complete laboratory practical assignments for **BCSAI111: HTML and CSS Introduction Lab**, organized according to the official syllabus and standard university experiment format.
+This repository contains the complete laboratory practical assignments for **BCS352: HTML and CSS Introduction Lab**, organized according to the official syllabus and standard university experiment format.
 
 Every experiment includes:
 1. **Experiment Title**
